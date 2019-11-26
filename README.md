@@ -13,3 +13,4 @@ A clinician has rated each image for the severity of diabetic retinopathy on a s
 + 2 - Moderate
 + 3 - Severe
 + 4 - Proliferative DR
+[Download the Dataset](https://www.kaggle.com/c/aptos2019-blindness-detection/data)
